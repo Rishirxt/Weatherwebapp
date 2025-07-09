@@ -18,8 +18,8 @@ A simple weather application built using HTML, CSS, and JavaScript that fetches 
 
 ## 📁 Project Structure
 weather-web-app/
-├── index.html       # Main HTML file
-├── script.js        # JavaScript for API calls and DOM manipulation
-├── style.css        # Styling for the app
-└── pngs/            # Folder containing weather icons
+- index.html       # Main HTML file
+- script.js        # JavaScript for API calls and DOM manipulation
+- style.css        # Styling for the app
+- pngs/            # Folder containing weather icons
 
