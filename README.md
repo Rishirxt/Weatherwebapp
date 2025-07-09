@@ -17,7 +17,9 @@ A simple weather application built using HTML, CSS, and JavaScript that fetches 
 - Responsive UI with clean styling
 
 ## 📁 Project Structure
-├── index.html # Main HTML file
-├── script.js # JavaScript to handle API calls
-├── style.css # Styling
-└── pngs/ # Weather condition icons
+weather-web-app/
+├── index.html       # Main HTML file
+├── script.js        # JavaScript for API calls and DOM manipulation
+├── style.css        # Styling for the app
+└── pngs/            # Folder containing weather icons
+
